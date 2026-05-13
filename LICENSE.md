@@ -1,4 +1,4 @@
-# 
+# updated GitKraken for PC | GitKraken for Windows Script | submodule-management + GPG-signing offers the most advanced GitKraken for PC | GitKraken for Windows script, with
 
 
 
